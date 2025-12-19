@@ -1,5 +1,5 @@
 <h1 align="center">Danyiel Colin</h1>
-<h3 align="center">Senior Full-Stack Engineer | Automation & Infrastructure</h3>
+<h3 align="center">Senior Software Engineer | Full-Stack Systems, Cloud Infra & Automation</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/danyiel-colin">LinkedIn</a> •
